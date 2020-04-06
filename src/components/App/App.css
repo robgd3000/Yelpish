@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: grey;
 }
 
 .App-logo {
@@ -35,4 +36,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+h1 {
+  font-size: 3rem;
+  color: orangered;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
